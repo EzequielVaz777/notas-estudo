@@ -1,6 +1,4 @@
-console.log("flamengo campeão mundial")
+let n1 = prompt("Digite um número: ")
+let n2 = prompt("Digite outro número:")
 
-const numero1 = 10
-const numero2 = 20
-
-console.log("Resultado de ") + numero1 + " - " + numero2 + " = " + (numero1 - numero2)
+alert("O resultado de " + n1 + " - " + n2 + " = " + (n1 - n2)) 

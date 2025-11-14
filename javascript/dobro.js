@@ -1,4 +1,4 @@
-const n1 = 5
-const n2 = 2
+const n1 = prompt("Digite um número:")
+const n2 = prompt("Digite outro número: ")
 
-console.log(n1 * n2)
+alert("Resultado de " + n1 + " * " + n2 + " = " + (n1 + n2))
